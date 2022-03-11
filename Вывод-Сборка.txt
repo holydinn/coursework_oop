@@ -1,0 +1,7 @@
+﻿Сборка начата…
+1>------ Сборка начата: проект: kursach_4sem, Конфигурация: Debug Win32 ------
+1>prog1.cpp
+1>D:\ma codes\source\repos\kursach_4sem\kursach_4sem\prog1.cpp(32,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+1>kursach_4sem.vcxproj -> D:\ma codes\source\repos\kursach_4sem\Debug\kursach_4sem.exe
+1>Сборка проекта "kursach_4sem.vcxproj" завершена.
+========== Сборка: успешно: 1, с ошибками: 0, без изменений: 0, пропущено: 0 ==========

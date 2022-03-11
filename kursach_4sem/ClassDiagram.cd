@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="location" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAYAAAAAAAACAAAAEAAAYABgAAAAAAA=</HashCode>
+      <FileName>classes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="point" Collapsed="true">
+    <Position X="6.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAABAAABAAACAAAAAABAAACAAAAAI=</HashCode>
+      <FileName>classes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="iship" Collapsed="true">
+    <Position X="4.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAQAQAAAEAIAAAAAAAAAAA=</HashCode>
+      <FileName>classes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ship" Collapsed="true">
+    <Position X="4.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAEAAAAAAAACAAAAAhASASAAAEAIhAAAAAAAAAA=</HashCode>
+      <FileName>classes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="rich_ship" Collapsed="true">
+    <Position X="3.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAQAAAAAAAIBEAAAAAAAAA=</HashCode>
+      <FileName>classes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wrecked_ship" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAQAQAAAgAIAAAAAACAAAA=</HashCode>
+      <FileName>classes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="item" Collapsed="true">
+    <Position X="8.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAQAAAACACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>classes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bomb" Collapsed="true">
+    <Position X="6.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAACAABAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>classes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="treasure" Collapsed="true">
+    <Position X="8.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAABAAAAAAAAAABAAAAIAAAAA=</HashCode>
+      <FileName>classes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="medcine" Collapsed="true">
+    <Position X="11" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAABAAAAAAAAAABAAAACAAAAA=</HashCode>
+      <FileName>classes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
